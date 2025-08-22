@@ -75,6 +75,10 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 -Header
 -Login Form
 -Sign up
+-form validation
+-firebase setup
+-deploying our app to production
+-create signup user account
 
 -configured tailwindCss
 #feature
