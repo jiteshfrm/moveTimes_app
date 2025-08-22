@@ -1,10 +1,8 @@
-import './App.css';
+import Body from './components/Body';
 
 function App() {
   return (
-    <div className="App p-20">
-     Hello lets build moviesTimes
-    </div>
+    <Body />
   );
 }
 

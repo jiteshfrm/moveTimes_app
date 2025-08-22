@@ -69,6 +69,13 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
+##feature completed
+-create React App
+-Configured TailwindCss
+-Header
+-Login Form
+-Sign up
+
 -configured tailwindCss
 #feature
 - signin and singup - if u not logined and user try to access browser page then move to login page

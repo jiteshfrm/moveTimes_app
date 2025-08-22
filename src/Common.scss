@@ -1,0 +1,28 @@
+@import url('./variable.scss');
+
+html{
+    font-size: 62.5%;
+}
+.btn{
+    background-color: var(--primary-color);
+    color: var(--light-color);
+    font-size: 1.6rem;
+    border-radius: 0.5rem;
+    padding: 1rem 2rem;
+}
+input{
+    width: 100%;
+    height: 5rem;
+    background-color: transparent;
+    border: 1px solid var(--light-color);
+    border-radius: 0.5rem;
+    font-size: 1.6rem;
+    margin-bottom: 2rem;
+    padding: 2rem;
+    color: var(--light-color);
+    outline: none;
+}
+h1{
+    color: var(--light-color);
+    font-size: 4rem;
+}
