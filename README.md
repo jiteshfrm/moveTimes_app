@@ -79,6 +79,12 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 -firebase setup
 -deploying our app to production
 -create signup user account
+-implement signin api
+-created redux store with user slice
+-implment logout feature
+- if user login or sign up need to navigate to browse page otherwise on click of signout navigate to home page
+-register tmdb api
+-call api get access token and get data for movies list now playing
 
 -configured tailwindCss
 #feature

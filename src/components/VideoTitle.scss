@@ -1,0 +1,31 @@
+.titleMianVideo{
+    color: var(--font-color);
+}
+.btn.playBtn{
+    width: 10rem;
+    margin-right: 2rem;
+    background-color: var(--light-color);
+    color: var(--font-color);
+}
+.btnContainer_videoMain{
+    display: flex;
+}
+.btn.moreInfoBtn{
+    background-color: white;
+    color: var(--font-color);
+
+}
+.paraVideoTitle{
+    margin: 2rem 0;
+    font-size: 1.4rem;
+}
+.trainerDetailContainer{
+    z-index: 2;
+    color: var(--light-color);
+    position: absolute;
+    top: 40rem;
+    left: 5rem;
+}
+.titleMianVideo{
+    color: var(--light-color);
+}
