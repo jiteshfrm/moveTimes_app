@@ -19,3 +19,34 @@
         left: 0;
     }
 }
+@media screen and (max-width: 500px) {
+    .mainContainerVideoSection{
+        height: 100%;
+        display: flex;
+        flex-direction: column;
+         padding-top: 15rem;
+         &::after{
+            display: none;
+         }
+         .videoBackgroundMaincontainer{
+            &::after{
+                display: none;
+            }
+         }
+        iframe{
+            position: static;
+            width: 100%;
+            height: 100%;
+        }
+        .trainerDetailContainer{
+            order: 2;
+            padding: 0 2rem;
+            margin-bottom: 5rem;
+            margin-top: 2rem;
+            position: static;
+            .paraVideoTitle{
+                width: 100%;
+            }
+        }
+    }
+}

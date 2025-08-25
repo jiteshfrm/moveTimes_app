@@ -38,3 +38,9 @@ h3{
     font-size: 2rem;
     margin-bottom: 2rem;
 }
+@media screen and (max-width: 768px) {
+    .secondaryMainContainer{
+        margin-top: 2rem;
+        padding: 0 2rem;
+    }
+}
