@@ -85,6 +85,14 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 - if user login or sign up need to navigate to browse page otherwise on click of signout navigate to home page
 -register tmdb api
 -call api get access token and get data for movies list now playing
+-custom hook for now playing api and movielist api
+- create slice for movelist
+-update store with movie data
+-custom hook for trailer video
+-update store with viedo data
+-embeded the youtube video and make it auto play and mute
+-build secondary component
+-add popular, toprated, upcoming movie api call and custom hook
 
 -configured tailwindCss
 #feature

@@ -3,6 +3,9 @@
 html{
     font-size: 62.5%;
 }
+*{
+    box-sizing: border-box;
+}
 .btn{
     background-color: var(--primary-color);
     color: var(--light-color);
@@ -30,4 +33,7 @@ h1{
     color: var(--error-color);
     margin-top: 1rem;
     font-size: 1.2rem;
+}
+body{
+    background-color: black;
 }
