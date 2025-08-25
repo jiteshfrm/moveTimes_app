@@ -3,7 +3,6 @@ import MoveList from "./MovieList";
 import './SecondaryContainer.scss';
 const SecondaryContainer = () => {
     const movies = useSelector(state => state.movies)
-    console.log(movies)
     return (
         <div className="secondaryMainContainer">
             <div className="innerSecondaryContainer">

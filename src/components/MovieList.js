@@ -1,7 +1,6 @@
 import MovieCard from "./MovieCard";
 
 const MoveList = ({title, movies}) => {
-    console.log(movies, "movies")
     return (
         <div className="allMovieContainer_top">
             <h3>{title}</h3>
